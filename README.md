@@ -2,7 +2,7 @@
 
 this is just a small app made as a joke to convert time from human years to other animal years. Think about the old saying that one human year is seven dog years and it's basically that.
 
-(Leaving original RE readme in because I'm lazy.)
+(Leaving original RN Expo readme in because I'm lazy.)
 
 # Welcome to your Expo app 👋
 
